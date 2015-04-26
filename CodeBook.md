@@ -1,3 +1,4 @@
+
 ##Code Book
 
 This is a code book to describe the variables, data structure and process to clean the data. 
